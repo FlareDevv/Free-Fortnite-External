@@ -4,3 +4,4 @@ Run MultiHack Launcher
 Choose Selected Game
 Inject Given Key
 DEL Key to Insert And Remove
+PASSWORD 123  
